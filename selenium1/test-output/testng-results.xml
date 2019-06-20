@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="27216" started-at="2019-06-19T08:48:41Z" finished-at="2019-06-19T08:49:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="27216" started-at="2019-06-19T08:48:41Z" finished-at="2019-06-19T08:49:09Z">
+      <class name="testmeapp.tests.onlineshoppingtest">
+        <test-method status="PASS" signature="testregistration()[pri:1, instance:testmeapp.tests.onlineshoppingtest@4c70fda8]" name="testregistration" duration-ms="10539" started-at="2019-06-19T08:48:41Z" finished-at="2019-06-19T08:48:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testregistration -->
+        <test-method status="PASS" signature="testlogin()[pri:2, instance:testmeapp.tests.onlineshoppingtest@4c70fda8]" name="testlogin" duration-ms="464" started-at="2019-06-19T08:48:52Z" finished-at="2019-06-19T08:48:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method status="PASS" signature="testcart()[pri:3, instance:testmeapp.tests.onlineshoppingtest@4c70fda8]" name="testcart" duration-ms="10903" started-at="2019-06-19T08:48:52Z" finished-at="2019-06-19T08:49:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcart -->
+        <test-method status="PASS" signature="testpayment()[pri:4, instance:testmeapp.tests.onlineshoppingtest@4c70fda8]" name="testpayment" duration-ms="5258" started-at="2019-06-19T08:49:03Z" finished-at="2019-06-19T08:49:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testpayment -->
+      </class> <!-- testmeapp.tests.onlineshoppingtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
